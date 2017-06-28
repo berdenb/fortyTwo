@@ -1,0 +1,707 @@
+@media only screen and (max-width: 320px){
+  html{
+    body{
+      header{
+        width: 100%;
+        #div1-head{
+          width: 100%;
+          display: inline-block;
+          #burger-menu{
+            img{
+              width: 350%;
+              height: auto;
+            }
+          }
+          #logo{
+            margin:2% 0 0 12%;
+            img{
+              width:300%;
+              height: auto;
+            }
+          }
+        }
+        #menu{
+          width: 100%;
+          font-size: 85%;
+        }
+        #div3-head{
+          margin:29% 8% 0 0;
+          img{
+            width:350%;
+            height: auto;
+          }
+        }
+      }
+     #left-section{
+       width:96%;
+       margin:2%;
+       #left-header{
+          padding-left:3%;
+          width:auto;
+          font-size: 2.3rem;
+       }
+       form {
+         input[type=text]{
+           width:40%;
+           margin-left:8%;
+         }
+         input[type=email] {
+           width:60%;
+           margin-left:8%;
+         }
+         input#mobile-num[type=text] {
+           width:60%;
+           margin-left:8%;
+         }
+         input[type=submit]{
+           width: 32%;
+           font-size:90%;
+           margin-top:10%;
+           float:none;
+         }
+          .btn-radio-container{
+            margin: 2% 0;
+          }
+         p {
+           padding-left:8%;
+           width: auto;
+           font-size: 1.2rem;
+         }
+       }
+     }
+      #section-right{
+        width:96%;
+        margin:2%;
+        float: none;
+        padding:0;
+        display: inline-block;
+        #section-border{
+          border-left:none;
+          border-top: 2px solid #878787;
+        }
+      }
+      footer#footer {
+        width: 94%;
+        padding:0;
+        margin:5% 2%;
+        border-left:0;
+        border-right:0;
+        #Rutrum{
+          width: 40%;
+          margin: 0 2% 12% 0;
+          #rutrum-block{
+            width:50%;
+          }
+        }
+        #Malesuada{
+          width: 40%;
+          margin:0 0 12% 1%;
+          #malesuada-block{
+            width:40%;
+          }
+        }
+        #Pellentesque{
+          width: 44%;
+          margin: 0 0 12% 0;
+          #pellentesque-block{
+            width: 50%;
+          }
+        }
+        #Quisque {
+          width: 35%;
+          margin-right: 6%;
+          #quisque-block{
+            width: 40%;
+          }
+        }
+        #buttons{
+          width: 100%;
+          margin-left: 5%;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width:506px) and (min-width: 321px) {
+  html {
+    body {
+      header {
+        width: 100%;
+        #div1-head {
+          width: 100%;
+          display: inline-block;
+          #burger-menu {
+            img {
+              width: 350%;
+              height: auto;
+            }
+          }
+          #logo {
+            margin: 2% 0 0 12%;
+            img {
+              width: 300%;
+              height: auto;
+            }
+          }
+        }
+        #menu {
+          width: 100%;
+          font-size: 108%;
+          a {
+            display: inline;
+          }
+        }
+        #div3-head {
+          margin: 29% 8% 0 0;
+          img {
+            width: 320%;
+            height: auto;
+          }
+        }
+      }
+      #left-section {
+        width: 96%;
+        margin:0 2%;
+        #left-header {
+          padding-left:3%;
+          width: auto;
+          font-size: 2.7rem;
+        }
+        form {
+          input[type=text] {
+            width: 32%;
+            margin-left:8%;
+          }
+          input[type=email] {
+            width: 57%;
+            margin-left:8%;
+          }
+          input#mobile-num[type=text] {
+            width: 57%;
+            margin-left:8%;
+          }
+          input[type=submit] {
+            width: 42%;
+            margin-top:10%;
+            font-size:90%;
+            float: none;
+          }
+          .btn-radio-container{
+            margin: 2%;
+          }
+          p {
+            padding-left:8%;
+            width: auto;
+            font-size: 1.5rem;
+          }
+        }
+      }
+      #section-right {
+        width: 96%;
+        margin:0 2%;
+        float: none;
+        padding:0;
+        display: inline-block;
+        #section-border {
+          border-left: none;
+          border-top: 2px solid #878787;
+          #right-header{
+            margin-left:6%;
+          }
+        }
+      .featured-article{
+         width:60%;
+         margin-left:17%;
+        }
+        .second-article{
+          width:60%;
+          margin-left:17%;
+        }
+      }
+      footer#footer {
+        width: 96%;
+        margin:5% 2%;
+        border-left:0;
+        border-right:0;
+        #Rutrum {
+          width: 40%;
+          margin: 0 2% 12% 0;
+          #rutrum-block {
+            width: 50%;
+          }
+        }
+        #Malesuada {
+          width: 40%;
+          margin: 0 0 12% 1%;
+          #malesuada-block {
+            width: 40%;
+          }
+        }
+        #Pellentesque {
+          width: 44%;
+          margin: 0 0 12% 0;
+          #pellentesque-block {
+            width: 50%;
+          }
+        }
+        #Quisque {
+          width: 35%;
+          margin-right: 6%;
+          #quisque-block {
+            width: 40%;
+          }
+        }
+        #buttons {
+          width: 100%;
+          margin-left: 5%;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width:614px) and (min-width:507px){
+  html {
+    body {
+      header {
+        width: 100%;
+        #div1-head {
+          width: 100%;
+          display: inline-block;
+          #burger-menu {
+            img {
+              width: 200%;
+              height: auto;
+            }
+          }
+          #logo {
+            margin: 1% 0 0 5%;
+            img {
+              width: 180%;
+              height: auto;
+            }
+          }
+        }
+        #div2-head {
+          width:80%;
+          #menu {
+            width: 80%;
+            font-size: 85%;
+            display: block;
+            ul {
+              margin-right:-37%;
+            }
+          }
+        }
+        #div3-head {
+          img {
+            width: 180%;
+            height: auto;
+          }
+        }
+      }
+      #left-section {
+        width: 96%;
+        margin:0 2%;
+        #left-header {
+          padding-left:3%;
+          width: auto;
+          font-size: 2.7rem;
+        }
+        form {
+          input[type=text] {
+            width: 32%;
+            margin-left:8%;
+          }
+          input[type=email] {
+            width: 57%;
+            margin-left:8%;
+          }
+          input#mobile-num[type=text] {
+            width: 57%;
+            margin-left:8%;
+          }
+          input[type=submit] {
+            width: 42%;
+            font-size:100%;
+            float: none;
+          }
+          .btn-radio-container{
+            margin:1% 4%;
+          }
+          p {
+            padding-left:8%;
+            width: auto;
+            font-size: 1.5rem;
+          }
+        }
+      }
+      #section-right {
+        width: 96%;
+        margin:0 2%;
+        float: none;
+        padding: 0;
+        display: inline-block;
+        #section-border {
+          border-left: none;
+          border-top: 2px solid #878787;
+          #right-header{
+            margin-left:17%;
+          }
+        }
+        .featured-article{
+          width:60%;
+          margin-left:17%;
+        }
+        .second-article{
+          width:60%;
+          margin-left:17%;
+        }
+      }
+      footer#footer {
+        width: 96%;
+        margin:5% 2%;
+        border-left:0;
+        border-right:0;
+        #Rutrum {
+          width: 40%;
+          margin: 0 2% 12% 0;
+          #rutrum-block {
+            width: 50%;
+          }
+        }
+        #Malesuada {
+          width: 40%;
+          margin: 0 0 12% 1%;
+          #malesuada-block {
+            width: 40%;
+          }
+        }
+        #Pellentesque {
+          width: 44%;
+          margin: 0 0 12% 0;
+          #pellentesque-block {
+            width: 50%;
+          }
+        }
+        #Quisque {
+          width: 35%;
+          margin-right: 6%;
+          #quisque-block {
+            width: 40%;
+          }
+        }
+        #buttons {
+          width: 100%;
+          margin-left: 5%;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width:725px) and (min-width:615px){
+  html {
+    body {
+      header {
+        width: 100%;
+        #div1-head {
+          width: 100%;
+          display: inline-block;
+          #burger-menu {
+            img {
+              width: 200%;
+              height: auto;
+            }
+          }
+          #logo {
+            margin: 1% 0 0 5%;
+            img {
+              width: 180%;
+              height: auto;
+            }
+          }
+        }
+        #div2-head {
+          width:80%;
+          #menu {
+            width: 80%;
+            font-size: 100%;
+            display: block;
+            ul {
+              margin-right:-32%;
+            }
+          }
+        }
+        #div3-head {
+          img {
+            width: 180%;
+            height: auto;
+          }
+        }
+      }
+      #left-section {
+        width: 50%;
+        margin:5% 2% 0 2%;
+        #left-header {
+          padding-left:3%;
+          width: auto;
+          font-size: 2.4rem;
+        }
+        form {
+          input[type=text] {
+            width: 25%;
+            margin-left:8%;
+          }
+          input[type=email] {
+            width: 60%;
+            margin-left:8%;
+          }
+          input#mobile-num[type=text] {
+            width: 60%;
+            margin-left:8%;
+          }
+          input[type=submit] {
+            width: 40%;
+            font-size:100%;
+            margin-bottom:5%;
+          }
+          .btn-radio-container{
+            margin:2%;
+          }
+          p {
+            padding-left:8%;
+            width: auto;
+            font-size: 1.4rem;
+          }
+        }
+      }
+      #section-right {
+        width: 40%;
+        margin-top: -2%;
+        padding: 0;
+        display: inline-block;
+        #section-border {
+          margin-bottom: 10%;
+          #right-header {
+            margin-left: 17%;
+          }
+        .featured-article {
+          width: 60%;
+          margin-left: 17%;
+          .featured-image-container {
+            height: 75px;
+            .featured-title{
+              font-size:90%;
+              height: 150%;
+              }
+            }
+          .featured-text{
+            font-size:120%;
+          }
+          }
+        }
+        .second-article {
+          width: 60%;
+          margin-left: 17%;
+          .second-image-container{
+            height:75px;
+            .second-title{
+              font-size:90%;
+              height: 150%;
+            }
+          }
+          .second-text{
+            font-size:120%;
+          }
+        }
+      }
+      footer#footer {
+        width: 96%;
+        margin:5% 2%;
+        border-left:0;
+        border-right:0;
+        #Rutrum {
+          width: 20%;
+          margin: 0 1% 5% 2%;
+          #rutrum-block {
+            width: 50%;
+          }
+        }
+        #Malesuada {
+          width: 22%;
+          margin: 0 2% 5% 0;
+          #malesuada-block {
+            width: 80%;
+          }
+        }
+        #Pellentesque {
+          width: 20%;
+          margin: 0 4% 5% 0;
+          #pellentesque-block {
+            width: 80%;
+          }
+        }
+        #Quisque {
+          width: 20%;
+          margin-right: 2%;
+          #quisque-block {
+            width: 50%;
+          }
+        }
+        #buttons {
+          width: 100%;
+          margin-left: 3%;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width:1024px) and (min-width:726px) {
+  html {
+    body {
+      header {
+        width: 100%;
+        #div1-head {
+          width: 100%;
+          img{
+            width: 120%;
+            height: auto;
+          }
+        }
+        #div2-head {
+          width:100%;
+          #menu {
+            width: 45%;
+            display: block;
+            ul {
+              margin-right:-70%;
+              li{
+                a{
+                  padding:1%;
+                  font-size: 93%;
+                }
+              }
+            }
+          }
+        }
+      }
+      #left-section {
+        width: 60%;
+        margin:5% 2% 0 2%;
+        #left-header {
+          padding-left:3%;
+          width: auto;
+          font-size: 2.4rem;
+        }
+        form {
+          input[type=text] {
+            width: 19%;
+            margin-left:8%;
+          }
+          input[type=email] {
+            width: 50%;
+            margin-left:8%;
+          }
+          input#mobile-num[type=text] {
+            width: 50%;
+            margin-left:8%;
+          }
+          input[type=submit] {
+            width: 30%;
+            font-size:100%;
+            margin-bottom:5%;
+          }
+          .btn-radio-container{
+            margin:2% 0 2% 4%;
+          }
+          p {
+            padding-left:8%;
+            width: auto;
+            font-size: 1.4rem;
+          }
+        }
+      }
+      #section-right {
+        width: 30%;
+        margin-top: -2%;
+        padding: 0;
+        display: inline-block;
+        #section-border {
+          margin-bottom: 10%;
+          #right-header {
+            margin-left: 17%;
+          }
+          .featured-article {
+            width: 60%;
+            margin-left: 17%;
+            .featured-image-container {
+              height: 75px;
+              .featured-title{
+                font-size:90%;
+                height: 150%;
+              }
+            }
+            .featured-text{
+              font-size:120%;
+            }
+          }
+        }
+        .second-article {
+          width: 60%;
+          margin-left: 17%;
+          .second-image-container{
+            height:75px;
+            .second-title{
+              font-size:90%;
+              height: 150%;
+            }
+          }
+          .second-text{
+            font-size:120%;
+          }
+        }
+      }
+      footer#footer {
+        width: 96%;
+        margin:5% 2%;
+        border-left:0;
+        border-right:0;
+        #Rutrum {
+          width: 20%;
+          margin: 0 1% 5% 2%;
+          #rutrum-block {
+            width: 50%;
+          }
+        }
+        #Malesuada {
+          width: 22%;
+          margin: 0 2% 5% 0;
+          #malesuada-block {
+            width: 80%;
+          }
+        }
+        #Pellentesque {
+          width: 20%;
+          margin: 0 4% 5% 0;
+          #pellentesque-block {
+            width: 80%;
+          }
+        }
+        #Quisque {
+          width: 20%;
+          margin-right: 2%;
+          #quisque-block {
+            width: 50%;
+          }
+        }
+        #buttons {
+          width: 100%;
+          margin-left: 3%;
+        }
+      }
+    }
+  }
+}
